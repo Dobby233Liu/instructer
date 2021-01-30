@@ -10,6 +10,4 @@ This tool requires Python 2.7 and Python 3.x installed together (what the fuck).
 
 Used libraries: unrpa and unrpyc, included through submodules (sync before use!)
 
-# Where is the code?
-
-This is a TODO, code have to be written later. This README is just written for myself.
+WIP

@@ -1,2 +1,3 @@
-fire
 icoextract
+click>=7.0
+unrpa

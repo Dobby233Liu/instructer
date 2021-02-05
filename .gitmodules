@@ -1,6 +1,3 @@
-[submodule "unrpa"]
-	path = unrpa
-	url = https://github.com/Lattyware/unrpa.git
 [submodule "unrpyc"]
 	path = unrpyc
-	url = https://github.com/CensoredUsername/unrpyc.git
+	url = https://github.com/Dobby233Liu/unrpyc.git

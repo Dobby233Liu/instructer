@@ -1,13 +1,18 @@
 # instructer
 
-Attmept to recreate a Ren'Py project from built files.
-
-The name is also a attmepted merge of "inflict" and "restructure", "-er"'d because this tool is doing that.
+This tool attmepts to recreate a Ren'Py project from built files.
 
 # Dependencies
 
-This tool requires Python 2.7 and Python 3.x installed together (what the fuck). The `main` module, which excepts a interactive terminal, itself requires only Python 3. 
+This tool requires Python 3.x. The `main` module needs to run interactively. 
 
-Used libraries: unrpa and unrpyc, included through submodules (sync before use!)
-Also see `[requirements.txt](requirements.txt)`
+This tool uses a custom version of `unrpyc` which supports Python 3.
+
+Also see `[requirements.txt](requirements.txt)` for used libraries.
+
+# Disclaimer
+
+If you're using this tool with a *real* game, use caution, and use with permission from the author/developers
+(unless permission is already impiled).
+
 WIP

@@ -8,7 +8,7 @@ This tool requires Python 3.x. The `main` module needs to run interactively.
 
 This tool uses a custom version of `unrpyc` which supports Python 3.
 
-Also see `[requirements.txt](requirements.txt)` for used libraries.
+Also see [`requirements.txt`](requirements.txt) for used libraries.
 
 # Disclaimer
 

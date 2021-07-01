@@ -4,7 +4,7 @@ This tool attmepts to recreate a Ren'Py project from built files.
 
 # Dependencies
 
-This tool requires Python 3.x. The `main` module needs to run interactively. 
+This tool requires Python 3.x. The `main` module has to be run interactively. 
 
 This tool uses a custom version of `unrpyc` which supports Python 3.
 

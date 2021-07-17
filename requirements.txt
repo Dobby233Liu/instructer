@@ -1,4 +1,4 @@
 icoextract
 click>=7.0
 unrpa
-git+https://github.com/Dobby233Liu/unrpyc@dev-instructer#egg=unrpyc
+git+git://github.com/Dobby233Liu/unrpyc.git@dev-instructer#egg=unrpyc-instructer

@@ -1,12 +1,10 @@
-#!env python3
+#!/usr/bin/env python3
 
 import click
-import run
-
-from _version import __version__, __program_name__
+from .__version__ import __version__, __program_name__
 
 @click.command()
-def main(py2_path=run.find_py2()):
+def main():
 	print(__program_name__)
 	print("version %s" % __version__)
 
